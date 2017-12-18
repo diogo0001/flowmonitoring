@@ -2,6 +2,8 @@
 
 Monitora o fluxo de pessoas
 
-Códigos para o módulo remoto e módulo central 
+Módulo remoto: remoteSensor.c
+Módulo central: CFPbase.c
+Demais arquivos são as bibliotecas necessessárias
 
 link para o projeto:
