@@ -1,6 +1,6 @@
 # Monitorament de fluxo de pessoas
 
-Realiza a contagem da passagem de pessoas, incrementando ao entrar no ambiente ou decrementando au sair, com objetivo do controle do fluxo, bem como a obtenção dos dados de sua densidade, armazenando data e horário de cada passagem.
+Realiza a contagem da passagem de pessoas, incrementando ao entrar no ambiente ou decrementando ao sair, com objetivo do controle do fluxo, bem como a obtenção dos dados de sua densidade, armazenando data e horário de cada passagem.
 
 São utilizados:
 - 2 [Módulos ultrassônicos](https://images-na.ssl-images-amazon.com/images/I/61dBXHczMuL._SX425_.jpg): para detectar a passagem.
