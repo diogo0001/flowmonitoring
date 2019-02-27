@@ -1,6 +1,8 @@
 # Monitorament de fluxo de pessoas
 
-Realiza a contagem da passagem de pessoas, incrementando ao entrar no ambiente ou decrementando ao sair, com objetivo do controle do fluxo, bem como a obtenção dos dados de sua densidade, armazenando data e horário de cada passagem.
+Realiza a contagem da passagem de pessoas, incrementando ao entrar no ambiente ou decrementando ao sair, com objetivo do controle do fluxo, bem como a obtenção dos dados de sua densidade, armazenando data e horário de cada passagem. 
+
+Programação feita no Atmel Studio, em C, diretamente no chip [Atmega328](https://www.ifuturetech.org/ifuture/uploads/2013/07/ATmega328P-PU-PIN-Diagram-connection-configration.jpg) do [Arduino Uno](https://s3-sa-east-1.amazonaws.com/multilogica-files/arduino_uno_r3_4_M.jpg) 
 
 São utilizados para cada módulo de detecção:
 - 2 [Módulos ultrassônicos](https://images-na.ssl-images-amazon.com/images/I/61dBXHczMuL._SX425_.jpg): para detectar a passagem.
